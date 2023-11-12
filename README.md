@@ -14,7 +14,7 @@ next tutorial.
 <br>
 #TERMUX
 <br>
-$ git clone https://github.com/LOoLzeC/DarkSploit
+$ git clone https://github.com/Umair8906/DarkSploit
 <br>
 $ cd DarkSploit
 <br>
